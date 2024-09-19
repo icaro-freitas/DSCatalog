@@ -1,4 +1,4 @@
-package com.devsuperior.dscatalog.projection;
+package com.devsuperior.dscatalog.projections;
 
 public interface UserDetailsProjection {
 
